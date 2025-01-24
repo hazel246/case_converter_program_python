@@ -1,2 +1,15 @@
-# case_converter_program_python
-A Python program that converts PascalCase or camelCase strings into snake_case format using list comprehension. This is a simple and efficient implementation of a case converter with clean, concise code.
+# Case Converter
+
+## Overview
+This repository contains a Python program to convert PascalCase or camelCase strings into snake_case using list comprehension. It demonstrates clean, readable code with Python string manipulation techniques.
+
+## Features
+- Converts PascalCase or camelCase strings into snake_case.
+- Uses Python's list comprehension for concise logic.
+- Includes a simple `main()` function for demonstration.
+
+
+### Example
+Input: `IAmAPascalCasedString`  
+Output: `i_am_a_pascal_cased_string`
+
